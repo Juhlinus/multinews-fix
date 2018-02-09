@@ -1,6 +1,8 @@
 *
 !./.gitignore
 !*/
+
+# Deprecated
 !wp-content/themes/multinews/framework/inc/sidebar_generator.php
 !wp-content/themes/multinews/framework/widgets/ads-widget.php
 !wp-content/themes/multinews/framework/widgets/comments-widget.php
@@ -23,3 +25,6 @@
 !wp-content/themes/multinews/framework/widgets/video-widget.php
 !wp-content/themes/multinews/framework/widgets/weather-widget.php
 !wp-content/themes/multinews/framework/metaboxes/momizat-class/MetaBox.php
+
+# Notices
+!wp-content/themes/multinews/framework/functions/rimages.php
